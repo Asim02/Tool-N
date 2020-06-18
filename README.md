@@ -1,5 +1,5 @@
-# https://github.com/Jam302/jamshahrukh.git
-# cd jamshahrukh
+# https://github.com/Asim02/Tool-N
+# cd Tool-N
 # chmod +x *
 # ls
-# python2 jam.py
+# python2 Asim.py
